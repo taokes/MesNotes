@@ -1,1 +1,4 @@
 README-DEV.md
+bower_components
+node_modules
+node_modules/\nbower_components/
